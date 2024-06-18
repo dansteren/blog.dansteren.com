@@ -1,0 +1,25 @@
+{
+  "name": "blog.dansteren.com",
+  "version": "0.0.1",
+  "description": "A brain dump",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dansteren/blog.dansteren.com.git"
+  },
+  "keywords": [
+    "dansteren",
+    "blog"
+  ],
+  "author": {
+    "name": "Dan Steren",
+    "email": "dan@dansteren.com",
+    "url": "https://dansteren.com"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/dansteren/blog.dansteren.com/issues"
+  },
+  "homepage": "https://github.com/dansteren/blog.dansteren.com#readme"
+}
