@@ -5,14 +5,14 @@ layout: home
 hero:
   name: "Dan Steren's Blog"
   text: "A Brain Dump"
-  tagline: My great project tagline
+  tagline: Random thoughts about software engineering, and life
   actions:
-    - theme: brand
-      text: Markdown Examples
+    - text: Markdown Examples
       link: /markdown-examples
-    - theme: alt
-      text: API Examples
+      theme: brand
+    - text: API Examples
       link: /api-examples
+      theme: alt
 
 features:
   - title: Feature A
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
