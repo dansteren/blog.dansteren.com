@@ -22,6 +22,11 @@
     "url": "https://github.com/dansteren/blog.dansteren.com/issues"
   },
   "homepage": "https://github.com/dansteren/blog.dansteren.com#readme",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
   "devDependencies": {
     "vitepress": "^1.2.3"
   }
