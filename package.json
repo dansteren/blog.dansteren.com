@@ -23,9 +23,10 @@
   },
   "homepage": "https://github.com/dansteren/blog.dansteren.com#readme",
   "scripts": {
-    "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "start": "npm run dev",
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
   },
   "devDependencies": {
     "vitepress": "^1.2.3"
